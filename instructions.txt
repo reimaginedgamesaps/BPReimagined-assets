@@ -1,0 +1,65 @@
+-- Windows Browser --
+
+Instructions for browser version (Windows):
+
+1. Do not launch the browser yet. It might delete old cache files, especially if it is still connected to the Internet.
+2. Use a USB or SD storage device and connect it to your PC.
+3. Copy the content of the browser's cache files directly into the storage device.
+4. In the software's menu, select File then Select Cache Folder and select the content you've copied in the used storage device.
+5. Click on the icon that shows A and Z with a down arrow on the Z, then CTRL+F and type boonieplanet.
+6. Select all the lines you've found then right click, and then click on Copy Selected Cache Files To.
+7. Create a **new folder** on your storage device, and tick the option that says "Save the file in the directory structure of the website".
+8. Send the folder as a ZIP through this website: https://boonieassets.reimagined-bsp.app/
+
+
+Where can I find the cache?
+
+This depends on what browser you have used in the past to play the game:
+
+Chrome: check %LOCALAPPDATA%\Google\Chrome\User Data.
+Edge: check %LOCALAPPDATA%\Microsoft\Edge\User Data.
+Opera: check %APPDATA%\Opera Software and %LOCALAPPDATA%\Opera Software.
+Mozilla Firefox: check %LOCALAPPDATA%\Mozilla\Firefox\Profiles.
+Internet Explorer: check %LOCALAPPDATA%\Microsoft\Windows\INetCache.
+
+For Chrome, Edge, Opera, you can use ChromeCacheView. For Firefox and IE, use MozillaCacheView and IECacheView, respectfully.
+
+You can find them on the official provider of these softwares: NirSoft. No installation is required, you only need to extract the ZIP file.
+
+
+-- Android --
+
+Instructions for Android version:
+
+1. If the Android app is still on your device, do not touch it. Do not update, do not uninstall, and do not open it.
+
+2. Use Airplane mode and connect the Android device on a computer through USB, then use "File transfer" when prompted to.
+
+3. Open the device folders, and look for one of these:
+
+Android/data/air.com.moviestarplanet.boonieverse and Android/obb/air.com.moviestarplanet.boonieverse
+
+(if it doesn't work, try without air in the name)
+
+4. Copy the contents of the app, and send it as a ZIP on this website: https://boonieassets.reimagined-bsp.app/
+
+Note: if your Android device has been updated to Android 10/11 or later, it might be harder to find the files. This is due to a Google limitation that can easily be bypassed through another File Explorer app like ZArchiver.
+
+Note2: If you also happen to have an old APK of the game (before 2.12.0), it might help us, too. Join the Discord server and contact us to send us any APK you find in a ZIP file!
+
+-- iOS -- 
+Instructions for iOS version:
+
+1. For iOS, at least on non-jailbroken devices, you'll have to get a backup of your device by using iTunes (not iCloud).
+
+2. If you don't have an iOS device, but used to and did a backup, you can also check these: %APPDATA%\Apple Computer\MobileSync\Backup and/or %USERPROFILE%\Apple\MobileSync\Backup.
+
+3. Open the backup you did, or an old backup you've found with iMazing or iBackup Viewer then extract the content of the app through the name com.moviestarplanet.boonieverse.
+
+4. Send your finds as a ZIP on this website: https://boonieassets.reimagined-bsp.app/
+
+Note: if the app happens to show a cloud with a download arrow next to its name, do not reinstall it: it means it is no longer available on the App Store.
+
+Note2: If you happen to have a jailbroken iOS device, you might also be able to use the AppStore++ tweak to downgrade to older versions of the IPA. If you can, send us the files in .IPA you can get your hands through a ZIP on Discord!
+
+The files are sent directly on our VPS server and nothing more than BooniePlanet assets is kept: anything new about the game is automatically added on it thanks to your contributions!
