@@ -41,6 +41,9 @@ Android/data/air.com.moviestarplanet.boonieverse and Android/obb/air.com.moviest
 
 (if it doesn't work, try without air in the name)
 
+3b. Alternatively (if you don't have or can't access a computer), use an app like ZArchiver and type "Boonie". You should find the app folder.
+3c. Once you found the app's folder, compress it as a ZIP, and send it through the website below.
+
 4. Copy the contents of the app, and send it as a ZIP on this website: https://boonieassets.reimagined-bsp.app/
 
 Note: if your Android device has been updated to Android 10/11 or later, it might be harder to find the files. This is due to a Google limitation that can easily be bypassed through another File Explorer app like ZArchiver.
